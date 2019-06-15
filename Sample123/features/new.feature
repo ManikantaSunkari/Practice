@@ -7,6 +7,7 @@ Feature: Validate the login
 		And User login with credentials
 		
 	Scenario: To Validate the login functionality
+		when dfghghfghfghfghgfh	
 		When User click on logout button
 		
 		Then User logout from the web site
